@@ -22,4 +22,4 @@ jobs:
         with:
           name: output
           retention-days: 5
-          path: ./dist/
+          path: ./
