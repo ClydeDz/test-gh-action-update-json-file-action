@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.13.3",
-    "my-awesome-library": "OLD_VALUE",
+    "my-awesome-library": "OLD_VALUE"
   },
   "engines": {
     "node": "4.0.0"
